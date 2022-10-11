@@ -72,6 +72,8 @@ composer install
 
 Copy value from .env.example to .env file
 
+Create database.sqlite file inside database folder
+
 Generate key
 ```
 php artisan key:generate
